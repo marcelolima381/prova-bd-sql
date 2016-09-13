@@ -4,10 +4,10 @@
 
 **Professor: João Eduardo Montandon**
 
-**Valor: 10 Pontos**
+**Valor: 08 Pontos**
 
 
-## Copiadora Copyleft (XX pontos)
+## Copiadora Copyleft (5 pontos)
 
 A Copiadora Copyleft é uma empresa que atua no ramo de impressão de documentos. O gerente da empresa está fazendo o relatório anual de faturamento e precisa de algumas informações sobre como foi o desempenho da empresa ao longo dos meses. 
 
@@ -31,7 +31,7 @@ Elabore as consultas que recupere as informações desejadas com base no DER aba
 ![Questão 01](q1.png)
 
 
-## Normalização (xx pontos)
+## Normalização (3 pontos)
 
 Você recebeu da sua empresa o seguinte DER:
 
